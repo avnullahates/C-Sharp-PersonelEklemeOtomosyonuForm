@@ -1,0 +1,10 @@
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\5. Gun\OO-07-OOPProje\01-PersonEklemeOtomosyonu\bin\Debug\01-PersonEklemeOtomosyonu.exe.config
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\5. Gun\OO-07-OOPProje\01-PersonEklemeOtomosyonu\bin\Debug\01-PersonEklemeOtomosyonu.exe
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\5. Gun\OO-07-OOPProje\01-PersonEklemeOtomosyonu\bin\Debug\01-PersonEklemeOtomosyonu.pdb
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\5. Gun\OO-07-OOPProje\01-PersonEklemeOtomosyonu\obj\Debug\01-PersonEklemeOtomosyonu.csproj.AssemblyReference.cache
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\5. Gun\OO-07-OOPProje\01-PersonEklemeOtomosyonu\obj\Debug\_01_PersonEklemeOtomosyonu.Form1.resources
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\5. Gun\OO-07-OOPProje\01-PersonEklemeOtomosyonu\obj\Debug\_01_PersonEklemeOtomosyonu.Properties.Resources.resources
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\5. Gun\OO-07-OOPProje\01-PersonEklemeOtomosyonu\obj\Debug\01-PersonEklemeOtomosyonu.csproj.GenerateResource.cache
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\5. Gun\OO-07-OOPProje\01-PersonEklemeOtomosyonu\obj\Debug\01-PersonEklemeOtomosyonu.csproj.CoreCompileInputs.cache
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\5. Gun\OO-07-OOPProje\01-PersonEklemeOtomosyonu\obj\Debug\01-PersonEklemeOtomosyonu.exe
+C:\Users\pana_\Desktop\bilge adam\8. Hafta(27.06.2022-01.07.2022) 5 gun\5. Gun\OO-07-OOPProje\01-PersonEklemeOtomosyonu\obj\Debug\01-PersonEklemeOtomosyonu.pdb
